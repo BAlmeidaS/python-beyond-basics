@@ -1,0 +1,2 @@
+def gretting():
+    print('welcome!')
